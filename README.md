@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Erick!  
+### Software Engineer | Computer Science | Full-stack Developer | Passionate about Algorithms and Problem-Solving  
 
-<!--
-**ErickRGuimaraes/ErickRGuimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Apaixonado por tecnologia, algoritmos e desenvolvimento de software.  
+🎯 Meu objetivo é criar soluções eficientes e escaláveis, sempre buscando aprendizado contínuo.  
+🚀 Atualmente, estou me preparando para entrevistas de engenharia de software no Google.  
 
-Here are some ideas to get you started:
+## 🚀 **Habilidades**  
+- **Linguagens**: Java, JavaScript, Python, C++, SQL  
+- **Tecnologias**: React, Node.js, PostgreSQL, SQL Server, Windows Server  
+- **Algoritmos e Estruturas de Dados**: Árvores, Grafos, Programação Dinâmica, Algoritmos Greedy  
+- **Metodologias**: Clean Code, Agile, Scrum  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 **Contato**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erickrguimaraes/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickguimaraes88526601@gmail.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ErickRGuimaraes/)  
+
+---
+⭐ **Sinta-se à vontade para explorar meus repositórios e contribuir!** 🚀  
