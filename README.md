@@ -7,7 +7,7 @@
 
 ## 🚀 **Habilidades**  
 - **Linguagens**: Java, JavaScript, Python, C++, SQL  
-- **Tecnologias**: React, Node.js, PostgreSQL, SQL Server, Windows Server  
+- **Tecnologias**: Spring Boot, React, Node.js, PostgreSQL, SQL Server, Windows Server  
 - **Algoritmos e Estruturas de Dados**: Árvores, Grafos, Programação Dinâmica, Algoritmos Greedy  
 - **Metodologias**: Clean Code, Agile, Scrum  
 
