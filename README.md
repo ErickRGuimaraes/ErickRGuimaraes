@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Erick!  
-### Software Engineer | Computer Science | Full-stack Developer | Passionate about Algorithms and Problem-Solving  
+### Software Engineer | Computer Science | Full-stack Developer | Java Developer | Passionate about Algorithms and Problem-Solving  
 
 💡 Apaixonado por tecnologia, algoritmos e desenvolvimento de software.  
 🎯 Meu objetivo é criar soluções eficientes e escaláveis, sempre buscando aprendizado contínuo.  
